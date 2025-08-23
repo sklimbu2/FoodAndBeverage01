@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sklimbu2/FoodAndBeverage01/static/css/main.7bfd3fa9.css",
+    "main.js": "/sklimbu2/FoodAndBeverage01/static/js/main.a695323f.js",
+    "static/media/PlayVideo.mp4": "/sklimbu2/FoodAndBeverage01/static/media/PlayVideo.feb8367feacdda0c9608.mp4",
+    "static/media/wrapper.jpg": "/sklimbu2/FoodAndBeverage01/static/media/wrapper.4c547b03b0edfa9b1dbd.jpg",
+    "static/media/aboutUs-img2.jpg": "/sklimbu2/FoodAndBeverage01/static/media/aboutUs-img2.7d261a4d1a575c45ed88.jpg",
+    "static/media/RestaurantStory.jpg": "/sklimbu2/FoodAndBeverage01/static/media/RestaurantStory.63229cb0f4e8b9b0a999.jpg",
+    "static/media/Food01.png": "/sklimbu2/FoodAndBeverage01/static/media/Food01.493c2d89daf3187a6f13.png",
+    "static/media/aboutUs-img1.jpg": "/sklimbu2/FoodAndBeverage01/static/media/aboutUs-img1.55c2dd6882c9cd238a99.jpg",
+    "static/media/RestaurantFocus-img02.jpg": "/sklimbu2/FoodAndBeverage01/static/media/RestaurantFocus-img02.761fd8800f568c0d9665.jpg",
+    "static/media/RestaurantFocus-img01.jpg": "/sklimbu2/FoodAndBeverage01/static/media/RestaurantFocus-img01.e8cc734e02b12b9778b5.jpg",
+    "static/media/Food02.png": "/sklimbu2/FoodAndBeverage01/static/media/Food02.d8e6ae2f8def14617ee4.png",
+    "static/media/chef_pic.png": "/sklimbu2/FoodAndBeverage01/static/media/chef_pic.4e0d1c917a15bf099dd3.png",
+    "static/media/logo.png": "/sklimbu2/FoodAndBeverage01/static/media/logo.b8576468e7c2ccd9de35.png",
+    "static/media/RestaurantFocus-img03.jpg": "/sklimbu2/FoodAndBeverage01/static/media/RestaurantFocus-img03.2eac0a383b249dc28d78.jpg",
+    "static/media/award01.png": "/sklimbu2/FoodAndBeverage01/static/media/award01.ec266e5a275a69b3e4aa.png",
+    "static/media/award03.png": "/sklimbu2/FoodAndBeverage01/static/media/award03.0a2fa4bc755a37af2590.png",
+    "static/media/award02.png": "/sklimbu2/FoodAndBeverage01/static/media/award02.bb60e7f3dbf8ce0c2697.png",
+    "static/media/restaurantWeek.png": "/sklimbu2/FoodAndBeverage01/static/media/restaurantWeek.fc7b49cc1b529a0218fe.png",
+    "static/media/Google_Play.svg": "/sklimbu2/FoodAndBeverage01/static/media/Google_Play.61ac97c79c430c26cfeb34f062b04d18.svg",
+    "index.html": "/sklimbu2/FoodAndBeverage01/index.html",
+    "main.7bfd3fa9.css.map": "/sklimbu2/FoodAndBeverage01/static/css/main.7bfd3fa9.css.map",
+    "main.a695323f.js.map": "/sklimbu2/FoodAndBeverage01/static/js/main.a695323f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bfd3fa9.css",
+    "static/js/main.a695323f.js"
+  ]
+}
