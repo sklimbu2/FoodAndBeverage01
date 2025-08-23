@@ -1,0 +1,13 @@
+.achievements{
+    padding: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.award-imgs{
+    display:flex;
+    gap:60px;
+}
+.award-img{
+    height: 150px;
+}

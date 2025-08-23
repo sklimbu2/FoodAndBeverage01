@@ -1,0 +1,48 @@
+.chef{
+    padding: 32px 64px;
+}
+.chefImage{
+    height: 450px;
+}
+.chef-bio{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 64px;
+}
+.chef-bioDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.chef-dish{
+    margin:32px 0px;
+}
+.dish-ImageNamePrice{
+    width:400px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.dishImage{
+    width: 100%;
+    height: 250px;
+}
+.dish-NamePrice{
+    display:flex;
+    justify-content: space-between;
+}
+.dishName, .dishPrice{
+    margin:5px 0px;
+}
+.dish-ingredient{
+    margin:0
+}
+@media(max-width: 600px){
+    .chef-bio{
+        flex-direction: column;
+    }
+    .dish-ImageNamePrice{
+        width: 100%;
+    }
+}

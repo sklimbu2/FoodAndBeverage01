@@ -1,0 +1,308 @@
+{
+  "menuItems": [
+    {
+      "category": "nonVeg",
+      "image": "/images/Salmon.jpeg",
+      "name": "Salmon Salad",
+      "details": "Fresh salmon with greens",
+      "price": 80
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/Pasta.jpg",
+      "name": "Seafood Pasta",
+      "details": "Toasted bread with tomatoes",
+      "price": 60
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/Steak.jpg",
+      "name": "Steak & Chips",
+      "details": "Premium cut beef",
+      "price": 120
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/grilled-chicken.jpg",
+      "name": "Grilled Chicken",
+      "details": "Juicy chicken breast marinated in herbs and spices, grilled to perfection",
+      "price": 14.99
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/lamb-chops.jpeg",
+      "name": "Herb-Crusted Lamb Chops",
+      "details": "Tender lamb chops with rosemary and thyme crust, red wine reduction",
+      "price": 19.99
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/butter-chicken.jpg",
+      "name": "Butter Chicken",
+      "details": "Classic Indian dish with tender chicken in creamy tomato sauce, served with naan",
+      "price": 16.75
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/caprese.jpeg",
+      "name": "Caprese Salad",
+      "details": "Fresh mozzarella, tomatoes, and basil with balsamic glaze",
+      "price": 65
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/SpringRolls.jpg",
+      "name": "Vegetable Spring Rolls",
+      "details": "Crispy rolls with cabbage, carrots, and mushrooms",
+      "price": 55
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/mushroomRisotto.jpg",
+      "name": "Mushroom Risotto",
+      "details": "Creamy arborio rice with wild mushrooms and parmesan",
+      "price": 120
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/eggplantParmesan.webp",
+      "name": "Eggplant Parmesan",
+      "details": "Breaded eggplant with marinara sauce and melted cheese",
+      "price": 110
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/VegetarianLasagna.jpg",
+      "name": "Vegetable Lasagna",
+      "details": "Layered pasta with zucchini, spinach, and ricotta",
+      "price": 130
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/chanaMasala.jpg",
+      "name": "Chana Masala",
+      "details": "Spicy chickpea curry with Indian spices",
+      "price": 95
+    },{
+      "category": "starters",
+      "image": "/images/garlic-bread.jpeg",
+      "name": "Garlic Bread",
+      "details": "Freshly baked bread with garlic butter and herbs",
+      "price": 4.99
+    },
+    {
+      "category": "starters",
+      "image": "/images/bruschetta.jpeg",
+      "name": "Bruschetta",
+      "details": "Toasted bread topped with tomatoes, garlic, and fresh basil",
+      "price": 6.50
+    },
+    {
+      "category": "starters",
+      "image": "/images/spring-rolls.jpeg",
+      "name": "Spring Rolls",
+      "details": "Crispy vegetable spring rolls with sweet chili sauce",
+      "price": 5.99
+    },
+    {
+      "category": "starters",
+      "image": "/images/chicken-wings.jpg",
+      "name": "Spicy Chicken Wings",
+      "details": "Crispy fried wings tossed in our signature spicy sauce",
+      "price": 8.99
+    },
+    {
+      "category": "starters",
+      "image": "/images/mozzarella-sticks.webp",
+      "name": "Mozzarella Sticks",
+      "details": "Breaded and fried mozzarella cheese with marinara sauce",
+      "price": 7.50
+    },
+    {
+      "category": "starters",
+      "image": "/images/shrimp-cocktail.webp",
+      "name": "Shrimp Cocktail",
+      "details": "Chilled jumbo shrimp with tangy cocktail sauce",
+      "price": 10.99
+    },
+    {
+      "category": "starters",
+      "image": "/images/stuffed-mushrooms.jpeg",
+      "name": "Stuffed Mushrooms",
+      "details": "Mushroom caps filled with herbed cream cheese and breadcrumbs",
+      "price": 7.25
+    },
+    {
+      "category": "dessert",
+      "image": "/images/chocolate-lava.webp",
+      "name": "Chocolate Lava Cake",
+      "details": "Warm chocolate cake with a molten center, served with vanilla ice cream",
+      "price": 8.99
+    },
+    {
+      "category": "dessert",
+      "image": "/images/tiramisu.webp",
+      "name": "Tiramisu",
+      "details": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream",
+      "price": 7.50
+    },
+    {
+      "category": "dessert",
+      "image": "/images/cheesecake.webp",
+      "name": "New York Cheesecake",
+      "details": "Creamy cheesecake with strawberry coulis and fresh berries",
+      "price": 6.99
+    },
+    {
+      "category": "dessert",
+      "image": "/images/crème-brûlée.webp",
+      "name": "Crème Brûlée",
+      "details": "Rich vanilla custard with a caramelized sugar crust",
+      "price": 7.25
+    },
+    {
+      "category": "dessert",
+      "image": "/images/apple-pie.jpeg",
+      "name": "Apple Pie à la Mode",
+      "details": "Homemade pie with cinnamon apples and a scoop of vanilla ice cream",
+      "price": 6.50
+    },
+    {
+      "category": "dessert",
+      "image": "/images/mango-panna-cotta.jpg",
+      "name": "Mango Panna Cotta",
+      "details": "Silky Italian custard topped with fresh mango puree",
+      "price": 6.75
+    },
+    {
+      "category": "drinks",
+      "image": "/images/mojito.webp",
+      "name": "Classic Mojito",
+      "details": "Fresh mint, lime, sugar, soda water, and white rum",
+      "price": 9.50
+    },
+    {
+      "category": "drinks",
+      "image": "/images/mango-lassi.jpeg",
+      "name": "Mango Lassi",
+      "details": "Creamy yogurt blended with ripe mango and cardamom",
+      "price": 5.99
+    },
+    {
+      "category": "drinks",
+      "image": "/images/iced-coffee.jpeg",
+      "name": "Iced Caramel Coffee",
+      "details": "Cold brew coffee with caramel syrup and milk over ice",
+      "price": 6.25
+    },
+    {
+      "category": "drinks",
+      "image": "/images/lemonade.jpeg",
+      "name": "Sparkling Lemonade",
+      "details": "Homemade lemonade with soda and fresh mint",
+      "price": 4.50
+    },
+    {
+      "category": "drinks",
+      "image": "/images/red-wine.webp",
+      "name": "Cabernet Sauvignon",
+      "details": "Full-bodied red wine with notes of black cherry and oak (glass)",
+      "price": 10.00
+    },
+    {
+      "category": "drinks",
+      "image": "/images/craft-beer.webp",
+      "name": "IPA Craft Beer",
+      "details": "Local draft IPA with citrusy hops (500ml)",
+      "price": 7.50
+    }
+  ],
+  "signatureDish" : [
+    {
+      "category": "nonVeg",
+      "image": "/images/Steak.jpg",
+      "name": "Steak & Chips",
+      "details": "Premium cut beef",
+      "price": 120
+    },
+    {
+      "category": "drinks",
+      "image": "/images/lemonade.jpeg",
+      "name": "Sparkling Lemonade",
+      "details": "Homemade lemonade with soda and fresh mint",
+      "price": 4.50
+    },
+    {
+      "category": "dessert",
+      "image": "/images/crème-brûlée.webp",
+      "name": "Crème Brûlée",
+      "details": "Rich vanilla custard with a caramelized sugar crust",
+      "price": 7.25
+    },
+    {
+      "category": "starters",
+      "image": "/images/shrimp-cocktail.webp",
+      "name": "Shrimp Cocktail",
+      "details": "Chilled jumbo shrimp with tangy cocktail sauce",
+      "price": 10.99
+    },
+    {
+      "category": "dessert",
+      "image": "/images/mango-panna-cotta.jpg",
+      "name": "Mango Panna Cotta",
+      "details": "Silky Italian custard topped with fresh mango puree",
+      "price": 6.75
+    },
+    {
+      "category": "nonVeg",
+      "image": "/images/grilled-chicken.jpg",
+      "name": "Grilled Chicken",
+      "details": "Juicy chicken breast marinated in herbs and spices, grilled to perfection",
+      "price": 14.99
+    }
+  ],
+  "newDish":[
+    {
+      "category": "vegetarian",
+      "image": "/images/mushroomRisotto.jpg",
+      "name": "Mushroom Risotto",
+      "details": "Creamy arborio rice with wild mushrooms and parmesan",
+      "price": 120
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/eggplantParmesan.webp",
+      "name": "Eggplant Parmesan",
+      "details": "Breaded eggplant with marinara sauce and melted cheese",
+      "price": 110
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/mushroomRisotto.jpg",
+      "name": "Mushroom Risotto",
+      "details": "Creamy arborio rice with wild mushrooms and parmesan",
+      "price": 120
+    },
+    {
+      "category": "vegetarian",
+      "image": "/images/eggplantParmesan.webp",
+      "name": "Eggplant Parmesan",
+      "details": "Breaded eggplant with marinara sauce and melted cheese",
+      "price": 110
+    },
+    {
+      "category": "starters",
+      "image": "/images/spring-rolls.jpeg",
+      "name": "Spring Rolls",
+      "details": "Crispy vegetable spring rolls with sweet chili sauce",
+      "price": 5.99
+    },
+    {
+      "category": "starters",
+      "image": "/images/bruschetta.jpeg",
+      "name": "Bruschetta",
+      "details": "Toasted bread topped with tomatoes, garlic, and fresh basil",
+      "price": 6.50
+    }
+  ]
+}

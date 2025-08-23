@@ -1,0 +1,36 @@
+.restaurantStory{
+    margin-top: 64px;
+    padding: 64px;
+    display: flex;
+    gap: 20px;
+    background-color: var(--BackgroundColor);
+}
+.restaurantStory-img{
+    width: 400px;
+}
+.restaurantStory-detail{
+    line-height: 25px;
+    text-align: justify;
+}
+.restaurantStory-btn{
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: var(--HeaderColor01);
+    color: var(--BackgroundColor);
+}
+.restaurantStory-btn:hover{
+    background-color: var(--HeaderColor03);
+}
+@media(max-width: 800px){
+    .restaurantStory {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media(max-width: 400px){
+    .restaurantStory-img{
+        width: 100vw;
+    }
+}

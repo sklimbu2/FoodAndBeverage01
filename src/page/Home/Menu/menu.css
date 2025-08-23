@@ -1,0 +1,86 @@
+.restaurantMenu{
+  background-color: var(--BackgroundColor);
+  padding: 48px 64px;
+  display: flex;
+  flex-direction: column;
+}
+.menuNav{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+  margin-bottom: 32px;
+  padding: 0;
+}
+.menuNav .active{
+  text-decoration: underline;
+  color: var(--HeaderColor01);
+}
+.menuNav li{
+  text-align: center;
+  cursor: pointer;
+  color: var(--TextColor)
+}
+.menuNav .icon{
+  font-size: 24px;
+  color: var(--HeaderColor03);
+}
+.menuNav p{
+  margin: 0;
+}
+.menuItems{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px 100px;
+}
+.menuItems img{
+  height:100px;
+  width:100px;
+  object-fit: cover;
+  object-position: cover;
+  border-radius:50%;
+}
+.menuItems .item{
+  display:flex;
+  gap:10px;
+  transform: translateY(20px);
+  transition-delay: 0.5s;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.menuItems .item.visible{
+  transform: translateY(0);
+  transition-delay: 0.5s;
+}
+.item-details{
+  width: 250px;
+}
+.item-name-price{
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  margin : 10px 0px;
+}
+.menuItems h4, span{
+  display: inline-block;
+  color: var(--HeaderColor01);
+  margin: 0;
+}
+
+.menuItems p{
+  margin:0px;
+  color: var(--TextColor)
+}
+
+
+/* Add more styles as needed */
+@media(max-width: 900px){
+  .menuItems{
+    grid-template-columns: 1fr;
+  }
+}
+@media(max-width: 500px){
+  .item{
+    flex-direction: column;
+  }
+}

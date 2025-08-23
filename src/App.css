@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+:root{
+  --HeaderColor01 : #393939;
+  --HeaderColor02 : #EF060B;
+  --HeaderColor03 : #F0B24D;
+  --TextColor : #868585;
+  --BackgroundColor : #FEF3EE;
+
+}
+body{
+  max-width:100vw;
+  min-width: 250px;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  position:relative;
+  font-family: Rubik;
+}
+li{
+  list-style:none;
+}
+.mainHeader{
+  color: var(--HeaderColor01);
+  text-align: center;
+}
+.smallHeader{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: var(--HeaderColor02)
+}
+.line{
+  height:2px;
+  width:50px;
+  background-color:var(--HeaderColor02);
+}
+.smallHeader h5{
+  color: var(--HeaderColor02);
+  margin:0;
+}
+p, span{
+  color: var(--TextColor);
+}
+img{
+  object-fit: cover;
+}
+@media(max-width: 450px){
+  .smallHeader h5{
+    font-size: 12px;
+  }
+  .mainHeader{
+    font-size: 16px;
+  }
+  p{
+    font-size: 12px;
+  }
+  .line{
+    width: 40px;
+  }
+}
+

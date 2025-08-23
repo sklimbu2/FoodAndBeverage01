@@ -1,0 +1,73 @@
+
+video{
+    position: relative;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.story-journey{
+    margin: 30px 0px;
+    background: var(--BackgroundColor);
+    padding: 34px 64px;
+}
+.journey-cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.journey-card{
+    position: relative;
+}
+.journey-card:first-child, .journey-card:nth-child(3){
+    width: 200px;
+    height: 300px
+}
+.journey-card:nth-child(2){
+    height:200px
+}
+.journey-background{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.4);
+}
+.journey-date{
+    color:var(--BackgroundColor);
+    position:absolute;
+    left:15px;
+    bottom: 0;
+    font-size: 24px;
+}
+.journey-image{
+    width:100%;
+    height:100%;
+}
+.journey-achievements{
+    padding: 0px 64px;
+}
+/* For the table structure */
+.achievements-cards {
+  border-collapse: collapse; /* Ensures borders don't double up */
+  width: 100%;
+}
+
+/* For each table cell (card) */
+.achievements-card {
+  border: 1px solid black; /* 1px solid black border */
+  padding: 10px; /* Add some padding inside each cell */
+  text-align: center; /* Center content if desired */
+}
+
+/* Optional: Add hover effect */
+.achievements-card:hover {
+  box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+.review-tripadvisor{
+    margin: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.tripadvisor-logo{
+    width: 150px;
+}

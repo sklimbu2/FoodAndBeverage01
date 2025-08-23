@@ -1,0 +1,68 @@
+.dishContainer-content{
+    overflow-x: scroll;
+    scrollbar-width: none;
+    margin: 30px 0px;
+}
+.dishContainer{
+    margin: 50px 64px;
+}
+
+.dishContainer-items{
+    display:flex;
+    gap: 40px;
+}
+.dishContainer-item{
+    width: 250px;
+}
+.dishContainer-image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    object-position: cover;
+    border-radius: 5px;;
+}
+
+.arrow-btn{
+    position:absolute;
+    z-index: 100;
+    top: 25%;
+    font-size: 40px;
+    background-color: var(--HeaderColor03);
+    opacity: .7;
+    font-weight: 800;
+    border-radius: 50%;
+    padding: 5px;
+}
+.arrow-btn:first-of-type{
+    left:-3%;
+}
+.arrow-btn:last-of-type{
+    right:-3%;
+}
+.arrow-btn:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+.arrow-hidden{
+    visibility: hidden;
+}
+.dishContainer-details{
+    padding: 0px 5px;
+}
+.dishContainer-namePrice{
+    display:flex;
+    justify-content: space-between;
+}
+.dishContainer-title{
+    color:var(--HeaderColor01);
+    font-size: 18px;
+    margin:10px 0px 5px 0px;
+    font-weight: 500;
+}
+.dishContainer-detail{
+    color: var(--TextColor);
+    font-size: 14px;
+    margin:0;
+    line-height: 18px;
+    text-transform: lowercase;
+}
