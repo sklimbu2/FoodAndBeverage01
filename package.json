@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "https://github.com/sklimbu2/FoodAndBeverage01",
   "name": "foodandbeverage01",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build":  "react-scripts build && rm -f build/.gitignore",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
